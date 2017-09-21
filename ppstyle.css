@@ -1,0 +1,110 @@
+
+#photo{
+display: inline-block;
+border-style: solid;
+border-color: grey;
+vertical-align: text-top;
+
+}
+
+#about{
+height: 280px;
+width: 520px;
+display: inline-block;
+background-color: rgb(236,229,236);
+vertical-align: text-top;
+
+
+
+}
+.whiteletter{
+    color: white;
+    font-weight: bold;
+    font-weight: 900;
+    background-color: grey;
+    margin-top: 0px;
+    height: 35px;
+}
+
+.details{
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    margin: 10px;
+    width: 300px;
+    height: 540px;
+    background-color: rgb(236,229,236);;
+    
+}
+
+.firstline{
+    display: inline-block;
+    margin: 3px; 
+    width: 15%;
+    
+}
+
+.secondline{
+    display: inline-block;
+    margin: 3px; 
+    width: 15%;
+}
+
+.subtitle{
+    color: white;
+    background-color: grey;
+    font-weight: 900;
+    font-weight: bold;
+    height: 35px;
+    margin-top: 0px;
+}
+.subtitle2{
+    color: white;
+    background-color: grey;
+    font-weight: 700;
+    font-weight: bold;
+    height: 25px;
+}
+
+.button{
+    color: white;
+    background-color:green;
+    font-weight: 300;
+    font-weight: bold;
+    font-size: 60%;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+    height: 20px; 
+    display: inline-block;
+}
+
+.info{
+
+text-align: center;
+font-size: 17px;
+}
+
+#wrapper{
+    background-color: rgb(77,57,55);
+    width: 1100px; 
+    height: 1000px;
+}
+
+#footer{
+    background-color: rgb(246,246,246);
+
+}
+
+
+.head{
+    background-color: rgb(246,246,246);
+}
+
+.profile{
+    margin-left: 20px;
+}
+
+.detailsfooter {
+    text-align: center; 
+}
